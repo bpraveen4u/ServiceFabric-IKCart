@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "IkeaCart1", "IkeaCart1\IkeaCart1.sfproj", "{EDAAB777-84DA-415C-830D-9EA872B0BFC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductService", "ProductService\ProductService.csproj", "{F762A24F-505F-401F-8610-D1C3EAB96187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductManagement", "ProductManagement\ProductManagement.csproj", "{FF75AA25-A546-4251-AF1C-21692C8CE19F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ikea.Models", "Ikea.Models\Ikea.Models.csproj", "{08571039-F2DA-4FEF-88DB-F4402A1905F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Debug|x64.ActiveCfg = Debug|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Debug|x64.Build.0 = Debug|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Debug|x64.Deploy.0 = Debug|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Release|Any CPU.ActiveCfg = Release|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Release|x64.ActiveCfg = Release|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Release|x64.Build.0 = Release|x64
+		{EDAAB777-84DA-415C-830D-9EA872B0BFC1}.Release|x64.Deploy.0 = Release|x64
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Debug|x64.Build.0 = Debug|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Release|x64.ActiveCfg = Release|Any CPU
+		{F762A24F-505F-401F-8610-D1C3EAB96187}.Release|x64.Build.0 = Release|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Debug|x64.Build.0 = Debug|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Release|x64.ActiveCfg = Release|Any CPU
+		{FF75AA25-A546-4251-AF1C-21692C8CE19F}.Release|x64.Build.0 = Release|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Debug|x64.Build.0 = Debug|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Release|x64.ActiveCfg = Release|Any CPU
+		{08571039-F2DA-4FEF-88DB-F4402A1905F7}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04C74AE9-CA6D-48AC-AFE5-7822A57AF913}
+	EndGlobalSection
+EndGlobal
